@@ -1,0 +1,7 @@
+.barraNavegacao{
+    background-color: rgba(127, 255, 212, 0.199);
+    min-height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
